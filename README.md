@@ -29,13 +29,4 @@ This project is an **AI-powered Emotion Detection Web App** that identifies the 
 git clone https://github.com/rishwapatel16/emotion-detector.git
 cd emotion-detector
 pip install -r requirements.txt
-
-## 📊 Dataset
-
-The dataset file `emotiondetector.csv` is located in the `data/` folder.
-
-Each row contains:
-- `Text`: user input or sentence
-- `Emotion`: labeled emotion (joy, sadness, anger, etc.)
-
-Format:
+streamlit run app.py
