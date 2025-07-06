@@ -52,7 +52,15 @@ emotion-detector/
 - Source: [Kaggle – Emotions Dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
 
 ---
+---
 
+## 📸 App Screenshots
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
+
+---
 ## 👩‍💻 Author
 
 **Rishwa Patel** – [GitHub Profile](https://github.com/rishwapatel16)
