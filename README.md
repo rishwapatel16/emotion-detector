@@ -42,6 +42,7 @@ emotion-detector/
 │   └── emotion_dataset.csv   # Labeled text dataset with emotions
 │
 └── .venv/                    # (optional) Python virtual environment folder
+```   ← ✅ THIS LINE was missing!
 
 ---
 
@@ -50,12 +51,13 @@ emotion-detector/
 - Dataset File: [`data/emotion_dataset.csv`](data/emotion_dataset.csv)
 - Source: [Kaggle – Emotions Dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
 
+---
+
 ## 👩‍💻 Author
 
 **Rishwa Patel** – [GitHub Profile](https://github.com/rishwapatel16)
 
-
-
+---
 
 ## 📦 Installation
 
