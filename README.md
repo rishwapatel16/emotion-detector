@@ -42,7 +42,7 @@ emotion-detector/
 │   └── emotion_dataset.csv   # Labeled text dataset with emotions
 │
 └── .venv/                    # (optional) Python virtual environment folder
-```   ← ✅ THIS LINE was missing!
+```   
 
 ---
 
