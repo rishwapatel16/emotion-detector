@@ -22,6 +22,25 @@ This project is an **AI-powered Emotion Detection Web App** that identifies the 
 - Natural Language Processing (NLP)
 
 ---
+## 📁 Project Structure
+
+```plaintext
+emotion-detector/
+│
+├── app.py                    # Streamlit web app frontend
+├── model_trainer.py          # ML model training script
+├── requirements.txt          # All Python dependencies
+├── preview.png               # Screenshot of the web app
+├── README.md                 # Project documentation
+│
+├── model/                    # Folder containing saved ML model & vectorizer
+│   ├── emotion_detector.pkl  # Trained model (saved using joblib)
+│   └── vectorizer.pkl        # CountVectorizer for text preprocessing
+│
+├── data/                     
+│   └── emotion_dataset.csv   # Labeled text dataset with emotions
+│
+└── .venv/                    # (optional) Python virtual environment folder
 
 ---
 
