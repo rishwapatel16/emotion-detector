@@ -56,9 +56,12 @@ emotion-detector/
 
 ## 📸 App Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
+![Screenshot 1](screenshot1.png.png)
+![Screenshot 2](screenshot2.png.png)
+![Screenshot 3](screenshot3.png.png)
+![Screenshot 3](screenshot4.png.png)
+![Screenshot 3](screenshot5.png.png)
+![Screenshot 3](screenshot6.png.png)
 
 ---
 ## 👩‍💻 Author
