@@ -27,27 +27,39 @@ This project is an **AI-powered Emotion Detection Web App** that identifies the 
 
 ## 📊 Dataset
 
-- The dataset file `emotion_dataset.csv` is located in the `data/` folder.
-- Each row contains:
-  - `Text`: user input or sentence
-  - `Emotion`: labeled emotion (joy, sadness, anger, etc.)
-- **Dataset Source**:  
-  [Emotion Dataset on Kaggle](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
-
----
+- Dataset File: [`data/emotion_dataset.csv`](data/emotion_dataset.csv)
+- Source: [Kaggle – Emotions Dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
 
 ## 👩‍💻 Author
 
-**Rishwa Patel**  
-📧 Email: *rishwapate06@gmail.com*  
-🔗 GitHub: [rishwapatel16](https://github.com/rishwapatel16)
+**Rishwa Patel** – [GitHub Profile](https://github.com/rishwapatel16)
+
 
 
 
 ## 📦 Installation
 
 ```bash
+# Clone the repository
 git clone https://github.com/rishwapatel16/emotion-detector.git
+
+# Navigate to the project directory
 cd emotion-detector
+
+# Create a virtual environment (optional but recommended)
+python -m venv .venv
+
+# Activate the virtual environment
+# For Windows:
+.venv\Scripts\activate
+# For macOS/Linux:
+source .venv/bin/activate
+
+# Install required packages
 pip install -r requirements.txt
+
+# Train the model
+python model_trainer.py
+
+# Run the web app
 streamlit run app.py
