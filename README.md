@@ -22,6 +22,7 @@ This project is an **AI-powered Emotion Detection Web App** that identifies the 
 - Natural Language Processing (NLP)
 
 ---
+
 ## 📁 Project Structure
 
 ```plaintext
